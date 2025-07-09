@@ -75,5 +75,4 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal.
 1.  Buka browser dan kunjungi `http://127.0.0.1:8000/`.
 2.  Klik **Sign Up** untuk membuat akun baru.
 3.  Setelah berhasil, Anda akan diarahkan ke halaman **Login**. Masuk menggunakan akun yang baru saja dibuat.
-4.  Setelah berhasil login, Anda akan diarahkan ke halaman utama dan bisa melihat pesan selamat datang.
-5.  Untuk mengakses panel admin (jika Anda sudah membuat superuser), kunjungi `http://127.0.0.1:8000/admin/`.
+4.  Setelah berhasil login, Anda akan diarahkan ke halaman utama.
